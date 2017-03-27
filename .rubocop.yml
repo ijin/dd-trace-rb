@@ -24,7 +24,7 @@ Metrics/MethodLength:
 Style/AccessorMethodName:
   Enabled: false
 
-Style/MethodCallWithoutArgsParentheses:
+3yyStyle/MethodCallWithoutArgsParentheses:
   Enabled: false
 
 Style/RescueModifier:
